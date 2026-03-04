@@ -1,5 +1,5 @@
 [deploy]
-startCommand = "python fastloop_improved.py --live --quiet"
+startCommand = "python fastloop_improved.py"
 restartPolicyType = "never"
 
 [cron]
